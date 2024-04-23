@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "title": "Dream 11 AI Predictor",
+    "image": "../images/dream.png",
+    "description": "Developed an AI-based predictor for Dream 11, a fantasy sports platform. Utilized machine learning algorithms to analyze historical data and player statistics for outcome predictions and optimal team compositions.",
+    "skills": ["Machine Learning", "Python", "Data Analysis"],
+    "websiteLink": "",
+    "githubLink": "https://github.com/aashishkant/Dream11-AI"
+  },
+  {
+    "id": "1",
+    "title": "Mirza Ghalib Poetry Generator",
+    "image": "../images/mirza.jpg",
+    "description": "Created a poetry generator inspired by the works of Mirza Ghalib, incorporating natural language processing techniques. Implemented recurrent neural networks or Markov chains to mimic Ghalib's style and language patterns.",
+    "skills": ["Natural Language Processing", "Python", "Machine Learning"],
+    "websiteLink": "",
+    "githubLink": "https://github.com/aashishkant/GhalibGram"
+  },
+  {
+    "id": "2",
+    "title": "Flask Chat App Website",
+    "image": "../images/chatapp.png",
+    "description": "Designed and developed a real-time chat application using Flask, a Python web framework. Integrated features such as user authentication, message encryption, and multimedia support for enhanced user experience.",
+    "skills": ["Flask", "Python", "Web Development"],
+    "websiteLink": "https://github.com/aashishkant/chatapp",
+    "githubLink": ""
+  }
+
+]
