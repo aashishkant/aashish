@@ -10,7 +10,7 @@ Welcome to my portfolio site! This is where I showcase my skills, projects, and 
 To get started, you can clone this repository to your local machine using Git. Simply run the following command in your terminal:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/aashishkant/React/<repository_url>
 ```
 
 Replace `<repository_url>` with the actual URL of this repository.
