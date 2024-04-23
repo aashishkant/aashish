@@ -170,7 +170,7 @@ const Footer = () => {
         )}
         <StyledFooterText>Developed by Ashish Kant</StyledFooterText>
         <StyledFooterText sx={{ marginBottom: "1rem" }}>
-          <StyledViewCodeLink href="https://github.com/aashishkant/maximilian-portfolio">
+          <StyledViewCodeLink href="https://github.com/aashishkant/React">
             View the code <GitHub sx={{ marginBottom: "-0.2rem" }} />
           </StyledViewCodeLink>
         </StyledFooterText>
