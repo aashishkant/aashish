@@ -10,12 +10,11 @@ import {
 } from "@mui/material";
 import { GitHub } from "@mui/icons-material";
 import {
-  CubeSvgPath,
+
   emailSvgPath,
   githubSvgPath,
   linkedInSvgPath,
-  rocketLeagueSvgPath,
-  UTRSvgPath,
+
 } from "../SvgHelper";
 
 
