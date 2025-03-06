@@ -131,7 +131,7 @@ const About = () => {
             <StyledDivider />
           </StyledGenericTitle>
           <StyledGenericSubText component="h1">
-            Hey there! My name is Aashish, and I've been passionate about web development for over {experienceYears} years. After diving into the world of programming, I've honed my skills in creating modern web applications using technologies like {languagesTechnologies.join(", ")}. From crafting interactive user interfaces to optimizing backend performance, I'm committed to delivering robust and elegant solutions. Let's connect and turn ideas into reality!
+            Hey there! My name is Aashish, and I've been passionate about web development for over 3 years. After diving into the world of programming, I've honed my skills in creating modern web applications using technologies like {languagesTechnologies.join(", ")}. From crafting interactive user interfaces to optimizing backend performance, I'm committed to delivering robust and elegant solutions. Let's connect and turn ideas into reality!
           </StyledGenericSubText>
           <StyledScrollingContainer>
             <StyledScrollingBelt>
