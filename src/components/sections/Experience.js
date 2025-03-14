@@ -99,21 +99,30 @@ const Experience = () => {
   const onlineExperiences = [
     {
       id: "1",
-      company: "Upwork",
-      jobTitle: "Freelance Developer",
-      years: "2020 - Present",
+      company: "Upwork, Fiverr, PeoplePerHour",
+      jobTitle: "Freelance Software Engineer",
+      years: "2022 - Present",
       description:
-        "Worked on various projects as a freelance developer specializing in web development and design. Collaborated with clients to deliver high-quality solutions tailored to their needs.",
+        "Built custom web applications using React, Next.js, and Node.js. Automated workflows and optimized performance with Flask and Django. Designed and deployed scalable solutions, integrating REST APIs and responsive UI/UX.",
     },
     {
       id: "2",
-      company: "Slash Plus",
-      jobTitle: "Project Contributor",
-      years: "2019- 2020",
+      company: "Yashams IT Solutions",
+      jobTitle: "Python Developer",
+      years: "Jun 2023 - Dec 2023",
       description:
-        "Contributing to open-source projects and participating in online coding communities. Actively engaged in collaborative coding efforts and skill-sharing initiatives.",
+        "Implemented web scraping and automation using Python and Selenium. Developed and maintained scalable web applications with React and Flask. Automated workflows using Laravel and Python, improving operational efficiency.",
+    },
+    {
+      id: "3",
+      company: "SlashPlus",
+      jobTitle: "Internship",
+      years: "May 2020 - Jul 2020",
+      description:
+        "Gained experience in web development and troubleshooting. Designed and maintained responsive websites, resolved technical issues, and provided support for software installations and network configurations.",
     },
   ];
+  
 
   return (
     <Scroll.Element name="Experience">

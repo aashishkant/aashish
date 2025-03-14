@@ -82,7 +82,7 @@ const Footer = () => {
           <StyledFooterList>
             <StyledListItemLink
               sx={{ marginRight: "-0.3rem" }}
-              href="https://www.linkedin.com/in/ashish-kant-b24537143/"
+              href="https://www.linkedin.com/in/aashish-kant-b24537143/"
               target="_blank"
             >
               <svg
@@ -167,9 +167,9 @@ const Footer = () => {
             </StyledListItemLink>
           </StyledFooterList>
         )}
-        <StyledFooterText>Developed by Ashish Kant</StyledFooterText>
+        <StyledFooterText>Developed by Aashish Kant</StyledFooterText>
         <StyledFooterText sx={{ marginBottom: "1rem" }}>
-          <StyledViewCodeLink href="https://github.com/aashishkant/React">
+          <StyledViewCodeLink href="https://github.com/aashishkant/aashish">
             View the code <GitHub sx={{ marginBottom: "-0.2rem" }} />
           </StyledViewCodeLink>
         </StyledFooterText>

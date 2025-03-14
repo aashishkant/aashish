@@ -99,17 +99,33 @@ const About = () => {
     threshold: 0.5,
     triggerOnce: true,
   });
-  const experienceYears = 1; // Update with Aashish's actual experience years
+  const experienceYears = 3; // Update with Aashish's actual experience years
   const languagesTechnologies = [
     "JavaScript",
     "React",
+    "Next.js",
     "Node.js",
     "Express",
+    "Flask",
+    "Django",
     "MongoDB",
-    "HTML",
-    "CSS",
+    "PostgreSQL",
+    "MySQL",
+    "TensorFlow",
+    "PyTorch",
+    "NLP",
+    "Transformers",
+    "Selenium",
+    "Power BI",
+    "Docker",
     "Git",
-  ]; // Update with Aashish's actual languages and technologies
+    "Linux",
+    "AWS",
+    "HTML",
+    "CSS"
+  ];
+  
+  
 
   return (
     <Scroll.Element name="About">

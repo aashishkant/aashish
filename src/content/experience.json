@@ -1,23 +1,30 @@
 [
   {
     "id": "0",
-    "company": "Slashplus",
+    "company": "SlashPlus",
     "jobTitle": "Internship",
     "years": "May 2020 - Jul 2020",
-    "description": "Experience in web development and troubleshooting computer-related issues. Developed and maintained websites, resolved website issues, and provided technical support."
+    "description": "Gained experience in web development and troubleshooting computer-related issues. Designed and maintained responsive websites, resolved compatibility and functionality issues, and provided technical support."
   },
   {
     "id": "1",
-    "company": "Upwork",
-    "jobTitle": "Freelancer",
-    "years": "Jan 2021 - Present",
-    "description": "Providing freelance services in web development, software engineering, and technical support."
+    "company": "Upwork, Fiverr, PeoplePerHour",
+    "jobTitle": "Freelance Software Engineer",
+    "years": "2022 - Present",
+    "description": "Built custom, user-centric web applications using React, Next.js, and Node.js. Automated workflows and optimized application performance using Flask and Django. Designed and deployed scalable solutions, incorporating REST APIs and ensuring responsive designs. Developed dynamic dashboards and data visualization tools with Power BI and Excel."
   },
   {
     "id": "2",
+    "company": "Yashams IT Solutions",
+    "jobTitle": "Python Developer",
+    "years": "Jun 2023 - Dec 2023",
+    "description": "Implemented web scraping and automation using Python and Selenium. Developed and maintained scalable web applications with React and Flask. Automated workflows using Laravel and Python, improving operational efficiency. Collaborated with cross-functional teams to deliver high-quality solutions."
+  },
+  {
+    "id": "3",
     "company": "Excel",
     "jobTitle": "Data Analyst",
     "years": "Mar 2022 - Present",
-    "description": "Analyzing data, creating reports, and providing insights using Excel."
+    "description": "Analyzing data, creating reports, and providing insights using Excel. Developed dynamic dashboards and data visualization tools to support decision-making."
   }
 ]

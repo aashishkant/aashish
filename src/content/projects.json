@@ -2,7 +2,7 @@
   {
     "id": "0",
     "title": "Dream 11 AI Predictor",
-    "image": "../images/dream.png",
+    "image": "../images/Dream.jpg",
     "description": "Developed an AI-based predictor for Dream 11, a fantasy sports platform. Utilized machine learning algorithms to analyze historical data and player statistics for outcome predictions and optimal team compositions.",
     "skills": ["Machine Learning", "Python", "Data Analysis"],
     "websiteLink": "",
